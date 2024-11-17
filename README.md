@@ -14,7 +14,7 @@
 
 > Install [Legion TCGP](https://github.com/chatblancdsc/legion-tcgp) `IMPORTANT: Install it from realase section.`
 >
-> Launch it before Pokémon TCGP:
+> Launch it on Windows before your Pokémon TCGP on LdPlayer (Work with LdPlayer only) (Launch your LdPlayer beafore: LdPlayer --> Legion TCGP (On Your Windows) --> Pokémon TCGP (On your LdPlayer)) (ONLY PC):
 
 ---
 
