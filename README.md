@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/1265969662261334153/1307594760105754725/th.jpeg?ex=6761c444&is=676072c4&hm=e5ef5dc0e98213cb01739bb6182c19d02612110ba7c47ef93d133e0f313051f5&" width="328"></img>
+<img src="https://raw.githubusercontent.com/chatblancdsc/assets/refs/heads/main/legion.jpeg" width="328"></img>
   </kbd>
 </p>
 
